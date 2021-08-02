@@ -1,4 +1,4 @@
-### Fala galera sou Alexandre Furquim 👋
+### Bem-vindo(a) sou Alexandre Furquim 👋 👨‍💻🛡️
 
 • Atuando desde 2006 na área de Tecnologia da Informação com vasto conhecimento e vivência.<br>
 • Domínio em plataforma Microsoft Windows/Windows Server.<br>
