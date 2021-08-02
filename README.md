@@ -15,6 +15,8 @@
 • Experiência profissional em empresa multinacional de grande porte como analista de suporte técnico.<br>
 • Certificações na área de Tecnologia da Informação e Segurança da Informação.<br>
 
+![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrefurquiminfo&show_icons=true&theme=dark)
+
 
 <!--
 **alexandrefurquiminfo/alexandrefurquiminfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
