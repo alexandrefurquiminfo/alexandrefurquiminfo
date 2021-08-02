@@ -15,8 +15,6 @@
 • Experiência profissional em empresa multinacional de grande porte como analista de suporte técnico.<br>
 • Certificações na área de Tecnologia da Informação e Segurança da Informação.<br>
 
-[bash]
- <i class="devicon-bash-plain"></i>
 
 <!--
 **alexandrefurquiminfo/alexandrefurquiminfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
