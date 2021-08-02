@@ -15,6 +15,7 @@
 • Experiência profissional em empresa multinacional de grande porte como analista de suporte técnico.<br>
 • Certificações na área de Tecnologia da Informação e Segurança da Informação.<br>
 
+[bash]
  <i class="devicon-bash-plain"></i>
 
 <!--
