@@ -27,6 +27,7 @@ Linguagens e ferramentas:<br>
 ![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![moffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ 
 
 Meu perfil profissional:
 <div>
@@ -39,8 +40,15 @@ Grupo Amigos da informática no Discord:<br>
     <div>
   <a href="https://discord.gg/T8jDHPHe3e">
          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    
-                               
+    </div></br>
+              </a>
+<div>
+  Minha página no Facebook:<br>
+  <br>
+  <a href="https://facebook.com/alexandrefurquiminfo">
+         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    </div></a>
+    <br>                       
                                
 
 
