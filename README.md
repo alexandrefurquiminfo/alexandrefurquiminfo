@@ -32,6 +32,14 @@ Meu perfil profissional:
 <div>
   <a href="https://linkedin.com/in/alefurquim">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </div></a>
+    <br>
+Grupo Amigos da informática no Discord:<br>
+<br>
+    <div>
+  <a href="https://discord.gg/T8jDHPHe3e">
+         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    
                                
                                
 
