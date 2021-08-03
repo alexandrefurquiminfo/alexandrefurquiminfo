@@ -1,4 +1,8 @@
-### Bem-vindo(a) sou Alexandre Furquim 👋 👨‍💻🛡️
+### Olá mundo sou Alexandre Furquim!👋 👨‍💻🛡️
+<div>
+         <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif">
+
+
 
 • Atuando desde 2006 na área de Tecnologia da Informação com vasto conhecimento e vivência.<br>
 • Domínio em plataforma Microsoft Windows/Windows Server.<br>
