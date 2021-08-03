@@ -17,7 +17,24 @@
 
 ![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrefurquiminfo&show_icons=true&theme=dark)
 
-![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white(https://discord.gg/T8jDHPHe3e))
+Linguagens e ferramentas:<br>
+
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![moffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+Meu perfil profissional:
+<div>
+  <a href="https://linkedin.com/in/alefurquim">
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+                               
+                               
+
 
 <!--
 **alexandrefurquiminfo/alexandrefurquiminfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
