@@ -43,7 +43,7 @@ Grupo Amigos da informática no Discord:<br>
     </div></br>
               </a>
 <div>
-  Minha página no Facebook:<br>
+  Minha página no Facebook: <br>
   <br>
   <a href="https://facebook.com/alexandrefurquiminfo">
          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
